@@ -16,7 +16,6 @@
 **Links:**
 
 * [LinkedIn](https://www.linkedin.com/in/wilknemaia/)
-* [Github](https://github.com/Wilkne-Maia)
 
 ## Projetos:
 
