@@ -14,7 +14,10 @@
 ## Projetos:
 
 ### Python
+
 * **Analisando Dados da Empresa com Python e Pandas:** https://bit.ly/3cp6MKP
+* **Organizar arquivos em repositórios por tipos com Python e Os:** < >
 
 ### Dart
+
 * **Coronavirus REST API Flutter Course:** https://bit.ly/3fM0cRP
